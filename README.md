@@ -1,4 +1,4 @@
-<h1 align="center">C++ Tutorials | Data Structures, Algorithms & More! 👋</h1>
+<h1 align="center">C++ Tutorials | Data Structures, Algorithms, & More! 👋</h1>
 <p>
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
