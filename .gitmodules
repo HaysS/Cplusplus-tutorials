@@ -1,3 +1,6 @@
 [submodule "starter-example-Cplusplus"]
 	path = starter-example-Cplusplus
 	url = https://github.com/HaysS/starter-example-Cplusplus.git
+[submodule "utilizing-classes-Cplusplus"]
+	path = utilizing-classes-Cplusplus
+	url = git@github.com:HaysS/utilizing-classes-Cplusplus.git
